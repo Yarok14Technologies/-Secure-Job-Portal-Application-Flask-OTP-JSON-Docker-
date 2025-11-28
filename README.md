@@ -272,10 +272,3 @@ MIT License — see the `LICENSE` file.
 
 ---
 
-If you'd like, I can also:
-
-* ✅ Generate the **GitHub Actions** YAML file and add it to the repo (I can create it as a separate file)
-* ✅ Produce the `docker-compose.yml` and `.env.example` files
-* ✅ Create screenshot images (mock UI) and add them to `docs/screenshots/`
-
-Which of those would you like me to generate now?
