@@ -211,7 +211,7 @@ See `LICENSE` file for more details.
 
 ## ❤️ Credits
 
-Developed by **Your Name**
+Developed by **BIBIN N BIJI**
 Give the project a ⭐ star if you find it useful!
 
 ---
